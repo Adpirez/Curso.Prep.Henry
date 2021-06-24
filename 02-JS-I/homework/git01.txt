@@ -1,0 +1,5 @@
+*Variables: Se usa para guardar el valor de algo como por ejemplo una palabra o un numero para usarlo mas tarde y que se puede cambiar en cualquier momento en Javascript.
+*Strings: Es un pedazo de plalabra/s o numero que va en comillas. Cualquier palabra o numero adentro de las comillas es considerado un string o cadena.
+*Funciones (argumentos, return): Los argumentos son la parte de la función que va entre parentesis que te deja agregar una variable para que sea cambiada por la función. Return es una herramienta de la función que se usar para devolver el dato que querramos ver cuando termine la función.
+*Declaraciones if: Es una herramienta para que la función decida si aplica una condición o no, si la variable cumple una condicion pasa algo y si no la cumple pasa otra cosa.
+*Valores booleanos: Significa que la variable puede tener solo dos valores verdadero o falso.
