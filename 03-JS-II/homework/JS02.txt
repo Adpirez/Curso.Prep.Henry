@@ -1,0 +1,4 @@
+*for:Es un bucle que se usa para hacer tareas de repeticion que se construye con 3 cosas( la variable con la que se va a trabajar, la condición o las reglas que se aplican al bucle y por ultima como se va a trabajar, por ejemplo incrementando de a 1).
+*&&:Es uno de los operadores logicos que se usan para devolver un valor booleano, (verdadero o falso). Este operador devuelve true si los dos operando son true, de lo contrario devuelve false.
+*||:Es uno de los operadores logicos que se usan para devolver un valor booleano, (verdadero o falso). Este operador devuelve true si uno o dos de los operandos es true, de lo contrario devuelve false.
+*!:Es uno de los operadores logicos que se usan para devolver un valor booleano, (verdadero o falso). Este operador devuelve false si su operando se puede convertir a true sino devuelve true. 
